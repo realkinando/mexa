@@ -64,7 +64,6 @@ typings/
 
 # next.js build output
 .next
-contracts/SignatureVerify.sol
 
 node_modules
 
